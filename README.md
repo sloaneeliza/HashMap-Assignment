@@ -1,4 +1,5 @@
 This is my submission for Assignment 5!
 
-Here's a photo of Tulip for good vibes
-![83A6F7F7-FD2B-47AC-B666-FD6ED06327E4_1_105_c](https://github.com/user-attachments/assets/6148dec8-8665-4005-8c8f-0a9fc34fa3c7)
+Here's a photo of my cat Tulip for good vibes
+
+![CC27EAF9-28A9-4835-A069-1E42E981E453_1_105_c](https://github.com/user-attachments/assets/c59585da-2d19-4987-a664-a73ee6c6e159)
